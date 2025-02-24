@@ -11,6 +11,7 @@ Several quick start options are available:
 -   Run `npm run dev` command
 -   Run `cp .env.example .env` command
 -   Run `php artisan key:generate` command
+-   Run `php artisan migrate` command
 -   Run `php artisan serve` command
 -   Done
 
